@@ -20,5 +20,4 @@ Original purpose of the dataset was to explore the impact of online education ba
 We can also determine the extracurricular activities, their interests, and performance in online classes. One of the limitations of this dataset is the inablility to for it to be used for is to view their specific grades and the number of classes they're enrolled in.
 
 
-# shiny App link 
-[Click here](https://johg5f-abhijith-chigurupati.shinyapps.io/Online_Education_Review/?_ga=2.50206502.1434378381.1651526430-2121356209.1648505804)
+
