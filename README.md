@@ -5,7 +5,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 1. Download all items in the Shiny-App folder
 2. Open Shiny-app.Rproj in R Studio
 3. Make sure both .png files are in a folder called WWW
-4. Open ui.R and server.R and click run
+4. Open ui.R and server.R ( Make sure you open both of them in the Shiny-app.Rproj)
 5. Click "Run App" in the upper right corner of the code panel
 6. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
 
@@ -14,6 +14,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 
 # Data
 Our chosen dataset, is a csv file that consisted of 23 columns and 1033 rows. This dataset is focusing on reviewing the online education system, was retrieved from kaggle.com
+[data link](https://www.kaggle.com/datasets/sujaradha/online-education-system-review?select=ONLINE+EDUCATION+SYSTEM+REVIEW.csv)
 
 # Information about the App
 Original purpose of the dataset was to explore the impact of online education based on the impact COVID-19 had on education. Since, having to move from traditional classroom environments, that has provided vital roles in nurturing and molding the life of individuals, to virtual education. After analyzing the data we discovered that it can be used to review the satisfactory level of the learners.It can also be used to investigate the demographics of the students, which gives us an inside viewpoint of the learners.For example, to view their gender, level of education, age, their economic class, or to determine if they are from an urban or rural home location.\n
