@@ -1,7 +1,7 @@
 # Shiny-App-For-Online-Education-Review
 
 ## Reproducing the App
-If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+If you wish to run the app from R Studio instead of going to the below link, you can use the following steps:
 1. Download all items in the Shiny-App folder in this repository
 2. Open Shiny-app.Rproj in R Studio
 3. Make sure both .png files are in a folder called WWW
