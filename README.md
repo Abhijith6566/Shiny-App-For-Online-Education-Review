@@ -9,6 +9,8 @@ If you wish to run the app from R Studio instead of going to the above link, you
 5. Click "Run App" in the upper right corner of the code panel
 6. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
 
+# shiny App link 
+[Click here](https://johg5f-abhijith-chigurupati.shinyapps.io/Online_Education_Review/?_ga=2.50206502.1434378381.1651526430-2121356209.1648505804)
 
 # Data
 Our chosen dataset, is a csv file that consisted of 23 columns and 1033 rows. This dataset is focusing on reviewing the online education system, was retrieved from kaggle.com
