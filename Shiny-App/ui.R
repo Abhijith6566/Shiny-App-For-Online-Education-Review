@@ -15,7 +15,7 @@ library(tidyverse)
 library(DT)
 library(shinythemes)
 
-df=read.csv("Data/ONLINE EDUCATION SYSTEM REVIEW.csv",stringsAsFactors = TRUE)
+df=read.csv("ONLINE EDUCATION SYSTEM REVIEW.csv",stringsAsFactors = TRUE)
 
 df$Gender<- as.factor(df$Gender)
 df$Performance.in.online<- as.factor(df$Performance.in.online)
