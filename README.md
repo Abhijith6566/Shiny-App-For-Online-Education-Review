@@ -1,4 +1,15 @@
 # Shiny-App-For-Online-Education-Review
+
+# Reproducing the App
+If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+1. Download all items in the Shiny-App folder
+2. Open Shiny-app.Rproj in R Studio
+3. Make sure both .png files are in a folder called WWW
+4. Open ui.R and server.R and click run
+5. Click "Run App" in the upper right corner of the code panel
+6. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
+
+
 # Data
 Our chosen dataset, is a csv file that consisted of 23 columns and 1033 rows. This dataset is focusing on reviewing the online education system, was retrieved from kaggle.com
 
