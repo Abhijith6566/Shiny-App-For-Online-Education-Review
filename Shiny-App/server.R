@@ -1,5 +1,5 @@
 server <- function(input,output){
-  df=read.csv("Data/ONLINE EDUCATION SYSTEM REVIEW.csv",stringsAsFactors = TRUE)
+  df=read.csv("ONLINE EDUCATION SYSTEM REVIEW.csv",stringsAsFactors = TRUE)
   Gender<- list("Male","Female")
   Homelocation<- list("Urban","Rural")
   Education<-list("School","Under Graduate", "Post Graduate")
